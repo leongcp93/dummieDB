@@ -1,5 +1,5 @@
 {
-	"Drivers" :[
+	"Members" :[
 	{
 		"postcode": 3000,
 		"name": "patrick",
@@ -34,43 +34,47 @@
 		"postcode": 3000,
 		"name": "Stan",
 		"space": 3
-	}
-
-	],
-
-	"Passenger" :[
+	},
 
 	{
 		"postcode": 3000,
-		"name": "Samantha"
+		"name": "Samantha",
+		"space": 0
 	},
 	{
 		"postcode": 2000,
-		"name": "Dang"
+		"name": "Dang",
+		"space": 0
 	},
 	{
 		"postcode": 3500,
-		"name": "Tsang"
+		"name": "Tsang",
+		"space": 0
 	},
 	{
 		"postcode":3500,
-		"name":"Jane"
+		"name":"Jane",
+		"space": 0
 	},
 	{
 		"postcode": 4000,
-		"name": "Leong"
+		"name": "Leong",
+		"space": 0
 	},
 	{
 		"postcode": 5000,
-		"name": "Lily"
+		"name": "Lily",
+		"space": 0
 	},
 	{
 		"postcode": 4000,
-		"name": "Chen"
+		"name": "Chen",
+		"space": 2
 	},
 	{
 		"postcode": 4500,
-		"name": "Adam"
+		"name": "Adam",
+		"space": 4
 	}
 
 
