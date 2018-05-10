@@ -75,6 +75,11 @@
 		"postcode": 4500,
 		"name": "Adam",
 		"space": 4
+	},
+	{
+		"postcode":4500,
+		"name": "Kenji",
+		"space": 5
 	}
 
 
