@@ -1,85 +1,85 @@
 {
 	"Members" :[
 	{
-		"postcode": 3000,
+		"postcode": "3000",
 		"name": "patrick",
-		"space": 4
+		"space": "4"
 		},
 	{
-		"postcode": 2000,
+		"postcode": "2000",
 		"name": "burno",
-		"space": 3
+		"space": "3"
 		},
 	{
-		"postcode": 3000,
+		"postcode": "3000",
 		"name": "Sam",
-		"space": 2
+		"space": "2"
 	},
 	{
-		"postcode": 4000,
+		"postcode": "4000",
 		"name": "Shane",
-		"space": 2
+		"space": "2"
 	},
 	{
-		"postcode": 3500,
+		"postcode": "3500",
 		"name": "Kane",
-		"space": 3
+		"space": "3"
 	},
 	{
-		"postcode": 3500,
+		"postcode": "3500",
 		"name": "Ken",
-		"space": 4
+		"space": "4"
 	},
 	{
-		"postcode": 3000,
+		"postcode": "3000",
 		"name": "Stan",
-		"space": 3
+		"space": "3"
 	},
 
 	{
-		"postcode": 3000,
+		"postcode": "3000",
 		"name": "Samantha",
-		"space": 0
+		"space": "0"
 	},
 	{
-		"postcode": 2000,
+		"postcode": "2000",
 		"name": "Dang",
-		"space": 0
+		"space": "0"
 	},
 	{
-		"postcode": 3500,
+		"postcode": "3500",
 		"name": "Tsang",
-		"space": 0
+		"space": "0"
 	},
 	{
-		"postcode":3500,
+		"postcode": "3500",
 		"name":"Jane",
-		"space": 0
+		"space": "0"
 	},
 	{
-		"postcode": 4000,
+		"postcode": "4000",
 		"name": "Leong",
-		"space": 0
+		"space": "0"
 	},
 	{
-		"postcode": 5000,
+		"postcode": "5000",
 		"name": "Lily",
-		"space": 0
+		"space": "0"
 	},
 	{
-		"postcode": 4000,
+		"postcode": "4000",
 		"name": "Chen",
-		"space": 2
+		"space": "2"
 	},
 	{
-		"postcode": 4500,
+		"postcode": "4500",
 		"name": "Adam",
-		"space": 4
+		"space": "4"
 	},
 	{
-		"postcode":4500,
+		"postcode":"4500",
 		"name": "Kenji",
-		"space": 5
+		"space": "5"
 	}
 
 
