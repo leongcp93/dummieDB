@@ -90,52 +90,19 @@
 		"location": "Unidus",
 		"start-time": "1100",
 		"end-time": "1400",
-		"members": [ 
-
-		{
-			"name":"john"
-		},
-		{
-			"name":"sarah"
-		}
-
-		]
+		"members": [ "john", "sarah"]
 	},
 	{
 		"location": "My house",
 		"start-time": "1300",
 		"end-time": "1400",
-		"members": [ 
-
-		{
-			"name":"john"
-		},
-		{
-			"name":"sarah"
-		},
-		{
-			"name":"tsang"
-		}
-
-		]
+		"members": [ "john", "sarah", "tsang"]
 	},
 	{
 		"location": "Fish & chips",
 		"start-time": "1500",
 		"end-time": "1700",
-		"members": [ 
-
-		{
-			"name":"john"
-		},
-		{
-			"name":"tsang"
-		},
-		{
-			"name":"jane"
-		}
-
-		]
+		"members": [ "john", "tsang", "jane"]
 	}
 
 
