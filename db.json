@@ -3,82 +3,98 @@
 	{
 		"postcode": "3000",
 		"name": "patrick",
+		"group": "UQ6",
 		"space": "4"
 		},
 	{
 		"postcode": "2000",
 		"name": "burno",
+		"group": "QUT3",
 		"space": "3"
 		},
 	{
 		"postcode": "3000",
 		"name": "Sam",
+		"group": "QUT5",
 		"space": "2"
 	},
 	{
 		"postcode": "4000",
 		"name": "Shane",
+		"group": "QUT1",
 		"space": "2"
 	},
 	{
 		"postcode": "3500",
 		"name": "Kane",
+		"group": "QUT1",
 		"space": "3"
 	},
 	{
 		"postcode": "3500",
 		"name": "Ken",
+		"group": "UQ3",
 		"space": "4"
 	},
 	{
 		"postcode": "3000",
 		"name": "Stan",
+		"group": "QUT3",
 		"space": "3"
 	},
 
 	{
 		"postcode": "3000",
 		"name": "Samantha",
+		"group": "QUT5",
 		"space": "0"
 	},
 	{
 		"postcode": "2000",
 		"name": "Dang",
+		"group": "QUT3",
 		"space": "0"
 	},
 	{
 		"postcode": "3500",
 		"name": "Tsang",
+		"group": "QUT5",
 		"space": "0"
 	},
 	{
 		"postcode": "3500",
 		"name":"Jane",
+		"group": "QUT4",
 		"space": "0"
 	},
 	{
 		"postcode": "4000",
 		"name": "Leong",
+		"group": "QUT4",
 		"space": "0"
 	},
 	{
 		"postcode": "5000",
 		"name": "Lily",
+		"group": "QUT4",
 		"space": "0"
 	},
 	{
 		"postcode": "4000",
 		"name": "Chen",
+		"group": "QUT1",
 		"space": "2"
 	},
 	{
 		"postcode": "4500",
 		"name": "Adam",
+		"group": "QUT1",
 		"space": "4"
 	},
 	{
 		"postcode":"4500",
 		"name": "Kenji",
+		"group": "QUT3",
 		"space": "5"
 	}
 
