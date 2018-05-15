@@ -72,19 +72,8 @@
 		"name": "Leong",
 		"group": "QUT4",
 		"space": "0"
-	},
-	{
-		"postcode": "5000",
-		"name": "Lily",
-		"group": "QUT4",
-		"space": "0"
-	},
-	{
-		"postcode": "4000",
-		"name": "Chen",
-		"group": "QUT1",
-		"space": "2"
 	}
+	
 	],
 	"Events" :[
 
