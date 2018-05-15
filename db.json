@@ -1,6 +1,7 @@
 {
 	"Members" :[
 	{
+		"id": "1",
 		"postcode": "3000",
 		"name": "patrick",
 		"group": "UQ6",
@@ -8,30 +9,35 @@
 		},
 	
 	{
+		"id": "2",
 		"postcode": "3000",
 		"name": "Sam",
 		"group": "QUT5",
 		"space": "2"
 	},
 	{
+		"id": "3",
 		"postcode": "4000",
 		"name": "Shane",
 		"group": "QUT1",
 		"space": "2"
 	},
 	{
+		"id": "4",
 		"postcode": "3500",
 		"name": "Kane",
 		"group": "QUT1",
 		"space": "3"
 	},
 	{
+		"id": "5",
 		"postcode": "3500",
 		"name": "Ken",
 		"group": "UQ3",
 		"space": "4"
 	},
 	{
+		"id": "6",
 		"postcode": "3000",
 		"name": "Stan",
 		"group": "QUT3",
@@ -40,24 +46,28 @@
 
 	
 	{
+		"id": "7",
 		"postcode": "2000",
 		"name": "Dang",
 		"group": "QUT3",
 		"space": "0"
 	},
 	{
+		"id": "8",
 		"postcode": "3500",
 		"name": "Tsang",
 		"group": "QUT5",
 		"space": "0"
 	},
 	{
+		"id": "9",
 		"postcode": "3500",
 		"name":"Jane",
 		"group": "QUT4",
 		"space": "0"
 	},
 	{
+		"id": "10",
 		"postcode": "4000",
 		"name": "Leong",
 		"group": "QUT4",
