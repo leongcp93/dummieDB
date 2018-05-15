@@ -6,12 +6,7 @@
 		"group": "UQ6",
 		"space": "4"
 		},
-	{
-		"postcode": "2000",
-		"name": "burno",
-		"group": "QUT3",
-		"space": "3"
-		},
+	
 	{
 		"postcode": "3000",
 		"name": "Sam",
@@ -43,12 +38,7 @@
 		"space": "3"
 	},
 
-	{
-		"postcode": "3000",
-		"name": "Samantha",
-		"group": "QUT5",
-		"space": "0"
-	},
+	
 	{
 		"postcode": "2000",
 		"name": "Dang",
@@ -73,7 +63,7 @@
 		"group": "QUT4",
 		"space": "0"
 	}
-	
+
 	],
 	"Events" :[
 
