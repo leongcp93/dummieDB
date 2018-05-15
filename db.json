@@ -84,21 +84,7 @@
 		"name": "Chen",
 		"group": "QUT1",
 		"space": "2"
-	},
-	{
-		"postcode": "4500",
-		"name": "Adam",
-		"group": "QUT1",
-		"space": "4"
-	},
-	{
-		"postcode":"4500",
-		"name": "Kenji",
-		"group": "QUT3",
-		"space": "5"
 	}
-
-
 	],
 	"Events" :[
 
