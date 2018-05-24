@@ -81,19 +81,19 @@
 		"id": "1",
 		"from": "Unidus",
 		"destination" : "default",
-		"start-time": "1100"
+		"time": "1100"
 	},
 	{
 		"id": "2",
 		"from": "My house",
 		"destination" : "default",
-		"start-time": "1300"
+		"time": "1300"
 	},
 	{
 		"id": "3",
 		"from": "Fish & chips",
 		"destination": "default",
-		"start-time": "1500"
+		"time": "1500"
 	}
 
 
@@ -110,6 +110,17 @@
 		"password": "QUT22018"
 	}
 
+	],
+	"groups" :[
+	{
+		"name":"QUT1"
+	},
+	{
+		"name":"QUT2"
+	},
+	{
+		"name":"QUT5"
+	}
 	]
 }
 
