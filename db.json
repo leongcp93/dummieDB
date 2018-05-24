@@ -78,25 +78,41 @@
 	"Events" :[
 
 	{
-		"location": "Unidus",
-		"start-time": "1100",
-		"end-time": "1400",
-		"members": [ "john", "sarah"]
+		"id": "1",
+		"from": "Unidus",
+		"destination" : "default",
+		"start-time": "1100"
 	},
 	{
-		"location": "My house",
-		"start-time": "1300",
-		"end-time": "1400",
-		"members": [ "john", "sarah", "tsang"]
+		"id": "2",
+		"from": "My house",
+		"destination" : "default",
+		"start-time": "1300"
 	},
 	{
-		"location": "Fish & chips",
-		"start-time": "1500",
-		"end-time": "1700",
-		"members": [ "john", "tsang", "jane"]
+		"id": "3",
+		"from": "Fish & chips",
+		"destination": "default",
+		"start-time": "1500"
 	}
 
 
 
+	],
+	"logins" :[
+
+	{
+		"ID": "QUT1",
+		"password": "QUT12018"
+	},
+	{
+		"ID": "QUT2",
+		"password": "QUT22018"
+	}
+
 	]
 }
+
+
+
+
